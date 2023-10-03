@@ -1,15 +1,212 @@
 source history_583/start_history_tracking.source_me.bash 
-pwd
-cd /home
-cd ~
-more history_583/start_history_tracking.source_me.bash 
-cat history_583/history.txt 
-cd /home
-cd ~
-echo hello dave
-source history_583/start_history_tracking.source_me.bash 
-ls -la
-cd history_583/
+
+ ls
+ cd /home
+ cd ~
+ echo "hellow dave"
+ echo
+ echo "I'm sorry Dave, I can't do that"
+ echo hi dave
+ echo "hi dave"
+ echo \"
+ mkdir pronto
+ cd pronto/
+ ls
+ cd
+ cd Desktop
+ ls
+ cd
+ cd pronto
+ cd
+ cd pronto/
+ ls /mnt
+ cd /mnt/c/Users/dacb/Desktop/
+ cd
+ cd pronto/
+ ls
+ ls -la
+ touch puppies.txt
+ ls
+ ls -la
+ ls -l
+ cp puppies.txt .puppies.txt
+ ls -l
+ ls -la
+ mv .puppies.txt doggies.txt
+ ls -l
+ touch puppies.txt
+ ls -l
+ rm puppies.txt
+ touch puppies.txt
+ touch kittens.txt
+ touch racoons.txt
+ ls
+ rm *.txt
+ ls
+ rm
+ rm --help
+ man rm
+ ls -la
+ cd ..
+ pwd
+ cd .
+ cd pronto/
+ cd .
+ ls ../../../
+ ls /
+ ls ../Desktop/ilmm.png
+ ls ../Desktop/*.png
+ touch foo.png
+ touch bar.PNG
+ ls *.png
+ rm *
+ nano README.txt
+ cat README.txt
+ cat ~/Desktop/ilmm.png
+ 61;6;7;21;22;23;24;28;32;42c61;6;7;21;22;23;24;28;32;42c61;6;7;21;22;23;24;28;32;42c61;6;7;21;22;23;24;28;32;42c
+ cat README.txt
+ nano README.txt
+ cat README.txt
+ nano README.txt
+ cat README.txt
+ more README.txt
+ less README.txt
+ head README.txt
+ tail README.txt
+ tail -5 README.txt
+ head --help
+ head 20 README.txt
+ head -l 20 README.txt
+ head -20 README.txt
+ head -n 20 README.txt
+ nano README.txt
+ # this is not a command, it is a comment
+ lfdiughedrsiugdsougdsou
+ # this a comment
+ curl www.google.com
+ curl -o index.html www.google.com
+ head index.html
+ wc -l index.html
+ rm index.html
+ history
+ history | grep pronto
+ cd
+ cd Documents
+ cd UWSEDS/
+ cd uwseds.github.io/
+ ls
+ vim syllabus.md
+ git add syllabus.md
+ git commit -m "syllabus.md"
+ git push
+ w
+ ls -la
+ history
+(base) dacb@stealth:~/Documents/UWSEDS/uwseds.github.io$ awk '{ $1=""; print $0; }' /tmp/a > /tmp/b
+(base) dacb@stealth:~/Documents/UWSEDS/uwseds.github.io$ cat /tmp/b
+ ls
+ cd /home
+ cd ~
+ echo "hellow dave"
+ echo
+ echo "I'm sorry Dave, I can't do that"
+ echo hi dave
+ echo "hi dave"
+ echo \"
+ mkdir pronto
+ cd pronto/
+ ls
+ cd
+ cd Desktop
+ ls
+ cd
+ cd pronto
+ cd
+ cd pronto/
+ ls /mnt
+ cd /mnt/c/Users/dacb/Desktop/
+ cd
+ cd pronto/
+ ls
+ ls -la
+ touch puppies.txt
+ ls
+ ls -la
+ ls -l
+ cp puppies.txt .puppies.txt
+ ls -l
+ ls -la
+ mv .puppies.txt doggies.txt
+ ls -l
+ touch puppies.txt
+ ls -l
+ rm puppies.txt
+ touch puppies.txt
+ touch kittens.txt
+ touch racoons.txt
+ ls
+ rm *.txt
+ ls
+ rm
+ rm --help
+ man rm
+ ls -la
+ cd ..
+ pwd
+ cd .
+ cd pronto/
+ cd .
+ ls ../../../
+ ls /
+ ls ../Desktop/ilmm.png
+ ls ../Desktop/*.png
+ touch foo.png
+ touch bar.PNG
+ ls *.png
+ rm *
+ nano README.txt
+ cat README.txt
+ cat ~/Desktop/ilmm.png
+ 61;6;7;21;22;23;24;28;32;42c61;6;7;21;22;23;24;28;32;42c61;6;7;21;22;23;24;28;32;42c61;6;7;21;22;23;24;28;32;42c
+ cat README.txt
+ nano README.txt
+ cat README.txt
+ nano README.txt
+ cat README.txt
+ more README.txt
+ less README.txt
+ head README.txt
+ tail README.txt
+ tail -5 README.txt
+ head --help
+ head 20 README.txt
+ head -l 20 README.txt
+ head -20 README.txt
+ head -n 20 README.txt
+ nano README.txt
+ # this is not a command, it is a comment
+ lfdiughedrsiugdsougdsou
+ # this a comment
+ curl www.google.com
+ curl -o index.html www.google.com
+ head index.html
+ wc -l index.html
+ rm index.html
+ history
+ history | grep pronto
+ cd
+ cd Documents
+ cd UWSEDS/
+ cd uwseds.github.io/
+ ls
+ vim syllabus.md
+ git add syllabus.md
+ git commit -m "syllabus.md"
+ git push
+ w
+ ls -la
+ history
+
 
 curl -o pronto.csv "https://data.seattle.gov/api/views/tw7j-dfaw/rows.csv?accessType=DOWNLOAD"
 history

@@ -3,3 +3,4 @@ pwd
 cd /home
 cd ~
 more history_583/start_history_tracking.source_me.bash 
+cat history_583/history.txt 

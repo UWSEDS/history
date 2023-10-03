@@ -12,3 +12,4 @@ ls -la
 cd history_583/
 
 curl -o pronto.csv "https://data.seattle.gov/api/views/tw7j-dfaw/rows.csv?accessType=DOWNLOAD"
+history

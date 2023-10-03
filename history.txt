@@ -1,2 +1,3 @@
 source history_583/start_history_tracking.source_me.bash 
 ls -la
+rm xaa xab xac xad

@@ -9,3 +9,4 @@ cd ~
 echo hello dave
 source history_583/start_history_tracking.source_me.bash 
 ls -la
+cd history_583/

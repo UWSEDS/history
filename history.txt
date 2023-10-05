@@ -218,3 +218,4 @@ ls
 curl -o pronto.csv "https://data.seattle.gov/api/views/tw7j-dfaw/rows.csv?accessType=DOWNLOAD"
 mv pronto.csv pronto
 cd pronto/
+head pronto.csv

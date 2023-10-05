@@ -216,3 +216,4 @@ vim technical_demo_notes.txt
 source history_583/start_history_tracking.source_me.bash 
 ls
 curl -o pronto.csv "https://data.seattle.gov/api/views/tw7j-dfaw/rows.csv?accessType=DOWNLOAD"
+mv pronto.csv pronto

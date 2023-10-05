@@ -230,3 +230,4 @@ ls
 ls pronto/
 cat pronto/README.txt 
 rmdir pronto/
+rm pronto/README.txt 

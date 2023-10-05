@@ -235,3 +235,4 @@ man rmdir
 man rm
 rm -r pronto/
 bash download_pronto.bash
+cd pronto/

@@ -248,3 +248,4 @@ cd pronto
 cat 
 cd
 cd pronto/
+cat README.txt 

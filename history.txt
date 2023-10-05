@@ -249,3 +249,5 @@ cat
 cd
 cd pronto/
 cat README.txt 
+exit
+bash

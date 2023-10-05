@@ -257,3 +257,4 @@ nano foo.bash
 fskdaihfjsaldkjfldsakjf
 flsakdjflasdjflsaj
 kjdslfkajsdlfkjsa
+git

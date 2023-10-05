@@ -243,3 +243,4 @@ more download_pronto.bash
 more foo.bash 
 vim foo.bash 
 bash foo.bash 
+cat foo.bash 

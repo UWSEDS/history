@@ -265,3 +265,4 @@ git config --global user.email dacb@uw.edu
 git config --list
 git config --help
 git config --global core.autocrlf false
+git config --global core.autocrlf input

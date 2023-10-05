@@ -247,3 +247,4 @@ cat foo.bash
 cd pronto
 cat 
 cd
+cd pronto/

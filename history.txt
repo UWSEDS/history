@@ -220,3 +220,4 @@ mv pronto.csv pronto
 cd pronto/
 head pronto.csv
 ls
+cd ..

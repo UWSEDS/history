@@ -246,3 +246,4 @@ bash foo.bash
 cat foo.bash 
 cd pronto
 cat 
+cd

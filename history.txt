@@ -234,3 +234,4 @@ rm pronto/README.txt
 man rmdir
 man rm
 rm -r pronto/
+bash download_pronto.bash

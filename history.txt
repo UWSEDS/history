@@ -258,3 +258,4 @@ fskdaihfjsaldkjfldsakjf
 flsakdjflasdjflsaj
 kjdslfkajsdlfkjsa
 git
+git config --global user.name "Dave Beck"

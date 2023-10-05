@@ -233,3 +233,4 @@ rmdir pronto/
 rm pronto/README.txt 
 man rmdir
 man rm
+rm -r pronto/

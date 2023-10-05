@@ -225,3 +225,4 @@ nano download_pronto.bash
 mv download_pronto.bash download_pronto.bash.2022
 nano download_pronto.bash
 cat download_pronto.bash
+bash download_pronto.bash

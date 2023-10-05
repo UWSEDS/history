@@ -229,3 +229,4 @@ bash download_pronto.bash
 ls 
 ls pronto/
 cat pronto/README.txt 
+rmdir pronto/

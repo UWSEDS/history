@@ -251,3 +251,4 @@ cd pronto/
 cat README.txt 
 exit
 bash
+diff download_pronto.bash download_pronto.bash.2022 

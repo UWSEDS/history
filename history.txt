@@ -232,3 +232,4 @@ cat pronto/README.txt
 rmdir pronto/
 rm pronto/README.txt 
 man rmdir
+man rm

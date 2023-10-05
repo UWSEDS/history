@@ -214,3 +214,4 @@ pip install foodframe
 python
 vim technical_demo_notes.txt
 source history_583/start_history_tracking.source_me.bash 
+ls

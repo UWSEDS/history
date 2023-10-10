@@ -288,3 +288,4 @@ cat LICENSE
 ls -la
 ls .git
 cd
+git status

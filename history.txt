@@ -346,3 +346,4 @@ git commit -m "Added little git ignore"
 git push
 cd
 ls -la .git
+git clone git@github.com:UWSEDS/hw0-dacb-1.git

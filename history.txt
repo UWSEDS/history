@@ -308,3 +308,4 @@ git log
 nano mars.txt 
 git status
 git diff mars.txt
+git diff mars.txt HEAD~1

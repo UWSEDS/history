@@ -338,3 +338,4 @@ touch data2.csv
 git status
 nano .gitignore
 git status
+cp /mnt/c/Users/dacb/Desktop/ilmm.png .

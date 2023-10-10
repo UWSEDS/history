@@ -305,3 +305,4 @@ git add mars.txt
 git commit -m "updated actors name and added a new line"
 git status
 git log 
+nano mars.txt 

@@ -290,3 +290,4 @@ ls .git
 cd
 git status
 cd planets1
+ls

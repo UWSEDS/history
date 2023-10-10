@@ -312,3 +312,4 @@ git diff mars.txt HEAD~1
 git diff HEAD ~1
 git add mars.txt 
 git commit -m "added another line"
+git diff HEAD~1 mars.txt

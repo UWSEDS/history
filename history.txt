@@ -327,3 +327,4 @@ git status
 nano venus.txt
 git status
 echo "yet another line" >> mars.txt 
+cat mars.txt 

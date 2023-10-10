@@ -296,3 +296,4 @@ nano mars.txt
 cat mars.txt 
 git status
 git add mars.txt 
+git status

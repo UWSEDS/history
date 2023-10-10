@@ -297,3 +297,4 @@ cat mars.txt
 git status
 git add mars.txt 
 git status
+git commit 

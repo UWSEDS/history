@@ -354,3 +354,4 @@ cp ~/download_pronto.bash .
 git status
 git add download_pronto.bash 
 git commit -m "added the SCKRIZA"
+git push

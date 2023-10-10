@@ -299,3 +299,4 @@ git add mars.txt
 git status
 git commit 
 git log
+nano mars.txt 

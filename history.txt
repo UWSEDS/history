@@ -336,3 +336,4 @@ git commit -m "added moar info"
 touch data1.csv
 touch data2.csv
 git status
+nano .gitignore

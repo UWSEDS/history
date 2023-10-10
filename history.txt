@@ -320,3 +320,4 @@ git diff HEAD~4
 git checkout HEAD~1
 cat mars.txt 
 git log
+git switch -c main

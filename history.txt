@@ -286,3 +286,4 @@ ls -la
 cat README.md 
 cat LICENSE 
 ls -la
+ls .git

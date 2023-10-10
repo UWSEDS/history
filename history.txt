@@ -285,3 +285,4 @@ cd planets1/
 ls -la
 cat README.md 
 cat LICENSE 
+ls -la

@@ -331,3 +331,4 @@ cat mars.txt
 git status
 git commit -m "added moar info" *.txt
 git status
+git add *.txt

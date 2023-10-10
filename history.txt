@@ -341,3 +341,4 @@ git status
 cp /mnt/c/Users/dacb/Desktop/ilmm.png .
 git status
 git commit -m "Added little git ignore" .gitignore 
+git add .gitignore 

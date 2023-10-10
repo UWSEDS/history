@@ -282,3 +282,4 @@ ssh -T git@github.com~
 ssh -T git@github.com
 git clone git@github.com:dacb/planets1.git
 cd planets1/
+ls -la

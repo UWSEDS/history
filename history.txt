@@ -330,3 +330,4 @@ echo "yet another line" >> mars.txt
 cat mars.txt 
 git status
 git commit -m "added moar info" *.txt
+git status

@@ -351,3 +351,4 @@ cd hw0-dacb-1/
 git status
 cp ../download_pronto.bash .
 cp ~/download_pronto.bash .
+git status

@@ -337,3 +337,4 @@ touch data1.csv
 touch data2.csv
 git status
 nano .gitignore
+git status

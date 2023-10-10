@@ -333,3 +333,4 @@ git commit -m "added moar info" *.txt
 git status
 git add *.txt
 git commit -m "added moar info" 
+touch data1.csv

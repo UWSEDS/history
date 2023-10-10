@@ -347,3 +347,4 @@ git push
 cd
 ls -la .git
 git clone git@github.com:UWSEDS/hw0-dacb-1.git
+cd hw0-dacb-1/

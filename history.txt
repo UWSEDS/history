@@ -322,3 +322,4 @@ cat mars.txt
 git log
 git switch -c main
 gitgit switch -
+git switch -

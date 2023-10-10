@@ -339,3 +339,4 @@ git status
 nano .gitignore
 git status
 cp /mnt/c/Users/dacb/Desktop/ilmm.png .
+git status

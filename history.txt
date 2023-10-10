@@ -345,3 +345,4 @@ git add .gitignore
 git commit -m "Added little git ignore" 
 git push
 cd
+ls -la .git

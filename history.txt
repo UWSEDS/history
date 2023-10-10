@@ -274,3 +274,4 @@ source
 source history_583/
 source history_583/start_history_tracking.source_me.bash 
 ls
+git config --global init.defaultBranch main

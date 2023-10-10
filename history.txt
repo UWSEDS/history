@@ -293,3 +293,4 @@ cd planets1
 ls
 git status
 nano mars.txt
+cat mars.txt 

@@ -276,3 +276,4 @@ source history_583/start_history_tracking.source_me.bash
 ls
 git config --global init.defaultBranch main
 ls -la ~/.ssh
+ssh -T git@github.com

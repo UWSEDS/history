@@ -318,3 +318,4 @@ git diff HEAD~4 mars.txt
 git diff HEAD~1
 git diff HEAD~4
 git checkout HEAD~1
+cat mars.txt 

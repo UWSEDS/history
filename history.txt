@@ -355,3 +355,4 @@ git status
 git add download_pronto.bash 
 git commit -m "added the SCKRIZA"
 git push
+source history_583/start_history_tracking.source_me.bash 

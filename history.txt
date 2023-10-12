@@ -358,3 +358,4 @@ git push
 source history_583/start_history_tracking.source_me.bash 
 conda install jupyter notebook
 curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/04_jupyter_and_python_intro/jupyter_and_python_breakout.ipynb
+head jupyter_and_python_breakout.ipynb 

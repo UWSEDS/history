@@ -361,3 +361,4 @@ curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/04_jup
 head jupyter_and_python_breakout.ipynb 
 echo "hello"
 jupyter notebook 
+https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/04_jupyter_and_python_intro/python_vars_and_flow_control.ipynb

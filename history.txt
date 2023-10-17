@@ -366,3 +366,4 @@ curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/04_jup
 head python_vars_and_flow_control.ipynb 
 jupyter notebook
 waffle
+conda create -n google_sheets

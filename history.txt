@@ -378,3 +378,4 @@ ls
 more README.md 
 more README.md /*
 more README.md 
+grep theano *

@@ -384,3 +384,4 @@ cd
 jupyter notebook
 bg
 curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/05_pandas_more_git/data_manipulation.ipynb
+head data_manipulation.ipynb 

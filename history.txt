@@ -381,3 +381,4 @@ more README.md
 grep theano *
 grep theano */*
 cd
+jupyter notebook

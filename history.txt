@@ -394,3 +394,4 @@ ls
 vim module.py
 nano module.py 
 python
+nano module.py 

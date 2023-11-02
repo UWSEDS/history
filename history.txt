@@ -400,3 +400,4 @@ cat module.py
 python
 ls
 mv module.py foo.py
+python

@@ -390,3 +390,4 @@ source history_583/start_history_tracking.source_me.bash
 mkdir repository
 cd repository/
 git init
+ls

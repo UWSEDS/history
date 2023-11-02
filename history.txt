@@ -404,3 +404,4 @@ python
 mv foo.py 23andyou.py
 pythoom
 python
+mv 23andyou.py module.py

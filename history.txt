@@ -475,3 +475,4 @@ cat smiles/__init__.py
 cd smiles/
 touch dog.py
 touch cat.py
+vim __init__.py 

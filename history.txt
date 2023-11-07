@@ -446,3 +446,4 @@ cd repository/
 python
 ls
 mkdir smiles
+python

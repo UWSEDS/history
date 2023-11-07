@@ -479,3 +479,4 @@ vim __init__.py
 cd ../../
 ls
 curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Debugging.ipynb
+head Debugging.ipynb 

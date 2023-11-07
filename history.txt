@@ -467,3 +467,4 @@ python
 cd ..
 cat smiles/__init__.py 
 python
+ls ./module.py 

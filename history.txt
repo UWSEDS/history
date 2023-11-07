@@ -408,3 +408,29 @@ mv 23andyou.py module.py
 python
 cd ..
 python
+ls entropy/
+mv entropy/ entropy.2022
+git clone git@github.com:UWSEDS/entropy.git
+cd entropy
+ls
+ls -la
+cd entropy/
+ls
+more __init__.py 
+ls
+more entropy.py 
+ks
+ls
+ls tests
+ls tests/__init__.py 
+more tests/__init__.py 
+ls
+cd ..
+;ls
+ls
+cd ..
+ls
+cp Documents/UWSEDS/lecture-materials/07_debug_exceptions_testing/Debugging.ipynb .
+ls
+code Debugging.ipynb 
+source history_583/start_history_tracking.source_me.bash 

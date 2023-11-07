@@ -448,3 +448,4 @@ ls
 mkdir smiles
 python
 cd smiles/
+ls

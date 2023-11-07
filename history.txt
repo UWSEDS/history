@@ -464,3 +464,4 @@ vim smiles/__init__.py
 cd smiles/
 more smiles.py 
 python
+cd ..

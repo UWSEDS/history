@@ -455,3 +455,4 @@ python
 cd smiles/
 ls
 vim __init__.py
+ls -la

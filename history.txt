@@ -453,3 +453,4 @@ vim smiles.py
 cd ..
 python
 cd smiles/
+ls

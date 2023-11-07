@@ -449,3 +449,4 @@ mkdir smiles
 python
 cd smiles/
 ls
+vim smiles.py

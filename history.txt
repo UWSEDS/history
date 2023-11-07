@@ -434,3 +434,4 @@ cp Documents/UWSEDS/lecture-materials/07_debug_exceptions_testing/Debugging.ipyn
 ls
 code Debugging.ipynb 
 source history_583/start_history_tracking.source_me.bash 
+cd Documents/UWSEDS/lecture-materials/

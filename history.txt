@@ -450,3 +450,4 @@ python
 cd smiles/
 ls
 vim smiles.py
+cd ..

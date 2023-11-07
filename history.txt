@@ -460,3 +460,4 @@ vim __init__.py
 cd ..
 python
 ls
+vim smiles/__init__.py 

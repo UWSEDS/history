@@ -465,3 +465,4 @@ cd smiles/
 more smiles.py 
 python
 cd ..
+cat smiles/__init__.py 

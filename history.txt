@@ -445,3 +445,4 @@ find ./ -name 'module.py' -print
 cd repository/
 python
 ls
+mkdir smiles

@@ -510,3 +510,4 @@ conda install matplotlib
 python
 cd
 cd tmp
+conda env export > environment.yml

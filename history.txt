@@ -494,3 +494,4 @@ conda deactivate
 python --version
 ls -l ~/.bashrc
 history
+conda activate py

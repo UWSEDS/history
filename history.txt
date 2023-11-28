@@ -522,3 +522,4 @@ conda deactivate
 conda env export --no-builds > environment.yml 
 vim environment.yml 
 conda activate py
+conda env export --no-builds > environment.yml 

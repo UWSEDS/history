@@ -493,3 +493,4 @@ python --version
 conda deactivate
 python --version
 ls -l ~/.bashrc
+history

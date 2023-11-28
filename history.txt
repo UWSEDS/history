@@ -507,3 +507,4 @@ python
 conda activate py
 python
 conda install matplotlib
+python

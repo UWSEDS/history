@@ -502,3 +502,4 @@ conda deactivate
 conda activate battery
 conda activate py
 conda deactivate 
+conda deactivate

@@ -511,3 +511,4 @@ python
 cd
 cd tmp
 conda env export > environment.yml
+conda env export

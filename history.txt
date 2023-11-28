@@ -515,3 +515,4 @@ conda env export
 cat environment.yml 
 conda activate py
 conda 
+cat environment.yml 

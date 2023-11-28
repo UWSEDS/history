@@ -497,3 +497,4 @@ history
 conda activate py
 python --version
 conda env list
+conda deactivate battery

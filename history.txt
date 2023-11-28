@@ -491,3 +491,4 @@ conda create -n py python
 which python
 python --version
 conda deactivate
+python --version

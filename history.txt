@@ -504,3 +504,4 @@ conda activate py
 conda deactivate 
 conda deactivate
 python
+conda activate py

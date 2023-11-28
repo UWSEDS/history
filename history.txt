@@ -520,3 +520,4 @@ conda env export --no-builds
 conda env export --no-builds > environment.yml 
 conda deactivate
 conda env export --no-builds > environment.yml 
+vim environment.yml 

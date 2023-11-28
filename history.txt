@@ -500,3 +500,4 @@ conda env list
 conda deactivate battery
 conda deactivate
 conda activate battery
+conda activate py

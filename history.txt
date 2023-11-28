@@ -513,3 +513,4 @@ cd tmp
 conda env export > environment.yml
 conda env export
 cat environment.yml 
+conda activate py

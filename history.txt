@@ -527,3 +527,4 @@ cat environment.yml
 vim environment.yml 
 conda env remove -n py 
 conda deactivate
+conda env remove -n py 

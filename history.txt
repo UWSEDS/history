@@ -484,3 +484,4 @@ jupyter notebook Debugging.ipynb
 ls
 source history_583/start_history_tracking.source_me.bash 
 which python
+python

@@ -517,3 +517,4 @@ conda activate py
 conda 
 cat environment.yml 
 conda env export --no-builds
+conda env export --no-builds > environment.yml 

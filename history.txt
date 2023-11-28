@@ -529,3 +529,4 @@ conda env remove -n py
 conda deactivate
 conda env remove -n py 
 conda env list
+conda env create -f environment.yml 

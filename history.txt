@@ -648,3 +648,4 @@ python -m unittest
 pytest
 conda install pytest
 pytest
+nosetests

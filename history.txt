@@ -651,3 +651,4 @@ pytest
 nosetests
 conda install nosetests
 git pull
+vim .github/workflows/python-package-conda.yml 

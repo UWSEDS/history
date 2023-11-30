@@ -670,3 +670,4 @@ popd
 cd
 cd codebase
 git commit -m 'broken stuff to show peeps'
+git push

@@ -649,3 +649,4 @@ pytest
 conda install pytest
 pytest
 nosetests
+conda install nosetests

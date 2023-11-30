@@ -646,3 +646,4 @@ cd codebase
 ls -la
 python -m unittest 
 pytest
+conda install pytest

@@ -533,3 +533,109 @@ conda env create -f environment.yml
 conda activate py
 python --version
 cat environment.yml 
+cd Documents
+cd Presentations/
+ls
+ls *.pptx
+explorer.exe Beck_MDS_overview_AIChE.p
+explorer.exe Beck_MDS_overview_AIChE.pptx 
+ls
+cd biomolecular_simulations_course/
+ls
+cd beck/
+ls
+cd ..
+ls
+cd ..
+ls
+cd eScience\ 12.11.2008/
+ls
+explorer.exe eScience.pptx
+man python
+python -c "import sys; print(sys.path[0])"
+python -c "import sys; print(sys.path)"
+cd
+git clone git@github.com:dacb/codebase_github_actions.git
+ls
+cd codebase_github_actions/
+ls
+cd .github/
+ls
+more workflows/
+more workflows/python-package-conda.yml
+ls
+cd ../
+ls
+ls -la
+more requirements.txt 
+more environment.yml 
+ls
+more .github/workflows/python-package-conda.yml 
+ls
+ls -la
+more .coveragerc 
+ls -la
+vim README.md 
+ls
+ls -la
+vim README.md 
+ls
+grep requirements.txt *
+ls
+git add README.md 
+git commit -m "removed dangling coverage badge"
+git push
+cd ..
+ls
+cd codebase_github_actions/
+ls
+ls -la
+\rm -rf .github/
+\rm -rf .gitignore 
+ls
+\rm -rf requirements.txt 
+ls
+ls -la
+\rm -rf .git/
+vim LICENSE 
+ls
+vim README.md 
+ls
+cd ..
+mv codebase_github_actions/ codebase
+cd codebase/
+git init
+git branch -M main
+git remote add origin git@github.com:dacb/codebase.git
+git push -u origin main
+git push -u origin master
+git push -u origin
+ls
+\rm -rf .git/
+git init
+git remote add origin git@github.com:dacb/codebase.git
+git push -u origin main
+git push -u origin master
+ls -la
+\rm -rf .git/
+git branch -m master main
+git init
+git branch -m master main
+git branch -m main main
+ls
+ls -la
+\rm -rf .git/
+cd ..
+mv codebase/ codebase.tmp
+git clone git@github.com:dacb/codebase.git
+cd codebase
+ls
+cp -av ../codebase.tmp/* .
+git add *
+git add codebase/*
+git add codebase/*/*
+git commit -m "import from sources"
+git push
+\rm -rf codebase/
+cd
+source history_583/start_history_tracking.source_me.bash 

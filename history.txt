@@ -656,3 +656,4 @@ ls
 vim codebase/codebase.py 
 pytest
 git status
+git add codebase/codebase.py 

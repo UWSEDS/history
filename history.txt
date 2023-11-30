@@ -655,3 +655,4 @@ vim .github/workflows/python-package-conda.yml
 ls
 vim codebase/codebase.py 
 pytest
+git status

@@ -639,3 +639,4 @@ git push
 \rm -rf codebase/
 cd
 source history_583/start_history_tracking.source_me.bash 
+git clone git@github.com:dacb/codebase.git

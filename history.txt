@@ -674,3 +674,4 @@ git push
 vim .github/workflows/python-package-conda.yml 
 vim codebase/codebase.py 
 vim codebase/tests/test_codebase.py 
+nosetests

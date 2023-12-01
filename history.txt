@@ -676,3 +676,4 @@ vim codebase/codebase.py
 vim codebase/tests/test_codebase.py 
 nosetests
 ssh klone.hyak.uw.edu
+cd

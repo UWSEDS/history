@@ -677,3 +677,4 @@ vim codebase/tests/test_codebase.py
 nosetests
 ssh klone.hyak.uw.edu
 cd
+vim /tmp/a.txt

@@ -1,0 +1,5 @@
+pushd .
+cd /Users/bryna/Projects/teaching/cse583/history
+git add history.txt; git commit -m 'updating'
+export HISTFILE='/Users/bryna/Projects/teaching/cse583/history/history.txt'
+history -a; history -c; history -r

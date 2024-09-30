@@ -1,0 +1,6 @@
+pwd
+pwd
+ls
+source start_history_tracking.source_me.bash 
+ls
+ls

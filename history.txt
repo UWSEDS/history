@@ -1,2 +1,3 @@
 cd Projects/teaching/cse583/history/
 source start_history_tracking.source_me.bash 
+ls

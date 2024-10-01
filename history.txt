@@ -44,3 +44,4 @@ ls
 touch pets/kitties.txt
 ls
 ls pets/
+rm pets

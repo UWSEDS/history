@@ -1,0 +1,11 @@
+pwd
+cd /Users
+cd ~
+ls
+cd /Users
+ls
+cd
+ls
+cd Projects/teaching/cse583/history/
+ls
+source start_history_tracking.source_me.bash 

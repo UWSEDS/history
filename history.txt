@@ -79,3 +79,4 @@ history | history.txt
 history > history.txt
 ls
 cat history.txt 
+curl www.google.com

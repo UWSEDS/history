@@ -41,3 +41,4 @@ rm kitties.txt
 ls
 mkdir pets
 ls
+touch pets/kitties.txt

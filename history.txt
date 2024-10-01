@@ -48,3 +48,4 @@ rm pets
 rmdir pets
 rm pets/kitties.txt 
 rmdir pets
+ls

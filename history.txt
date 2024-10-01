@@ -20,3 +20,4 @@ ls
 cd pronto/
 ls
 ls -a
+ls -l

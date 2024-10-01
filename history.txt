@@ -65,3 +65,4 @@ cat README.txt
 more README.txt 
 less README.txt 
 head README.txt 
+head -5 README.txt 

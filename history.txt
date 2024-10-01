@@ -84,3 +84,4 @@ curl --help
 curl -o index.html www.google.com
 ls
 cat index.html 
+rm index.html 

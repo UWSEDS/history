@@ -25,3 +25,4 @@ ls -la
 pwd
 cd ..
 pwd
+cd pronto/

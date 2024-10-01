@@ -56,3 +56,4 @@ ls
 touch readme.txt
 touch rabbits.txt
 ls
+nano README.txt 

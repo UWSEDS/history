@@ -26,3 +26,4 @@ pwd
 cd ..
 pwd
 cd pronto/
+ls

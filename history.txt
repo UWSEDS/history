@@ -19,3 +19,4 @@ mkdir pronto
 ls
 cd pronto/
 ls
+ls -a

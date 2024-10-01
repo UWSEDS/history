@@ -31,3 +31,4 @@ touch puppies.txt
 ls
 cp --help
 cp puppies.txt doggies.txt
+ls

@@ -28,3 +28,4 @@ pwd
 cd pronto/
 ls
 touch puppies.txt
+ls

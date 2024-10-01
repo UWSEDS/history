@@ -34,3 +34,4 @@ cp puppies.txt doggies.txt
 ls
 mv doggies.txt kitties.txt
 ls
+ls *.txt

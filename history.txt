@@ -33,3 +33,4 @@ cp --help
 cp puppies.txt doggies.txt
 ls
 mv doggies.txt kitties.txt
+ls

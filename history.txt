@@ -18,3 +18,4 @@ man mkdir
 mkdir pronto
 ls
 cd pronto/
+ls

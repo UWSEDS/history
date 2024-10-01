@@ -16,3 +16,4 @@ mkdir -h
 cd --help
 man mkdir
 mkdir pronto
+ls

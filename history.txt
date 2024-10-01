@@ -11,3 +11,4 @@ ls
 source start_history_tracking.source_me.bash 
 cd
 mkdir
+mkdir --help

@@ -80,3 +80,4 @@ history > history.txt
 ls
 cat history.txt 
 curl www.google.com
+curl --help

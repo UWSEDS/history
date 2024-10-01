@@ -76,3 +76,4 @@ history
 echo hello bryna
 history
 history | history.txt
+history > history.txt

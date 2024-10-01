@@ -17,3 +17,4 @@ cd --help
 man mkdir
 mkdir pronto
 ls
+cd pronto/

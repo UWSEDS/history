@@ -29,3 +29,4 @@ cd pronto/
 ls
 touch puppies.txt
 ls
+cp --help

@@ -39,3 +39,4 @@ rm --help
 man rm
 rm kitties.txt 
 ls
+mkdir pets

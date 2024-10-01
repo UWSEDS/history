@@ -74,3 +74,4 @@ history
 # this is a comment
 history
 echo hello bryna
+history

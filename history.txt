@@ -37,3 +37,4 @@ ls
 ls *.txt
 rm --help
 man rm
+rm kitties.txt 

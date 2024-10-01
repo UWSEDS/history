@@ -42,3 +42,4 @@ ls
 mkdir pets
 ls
 touch pets/kitties.txt
+ls

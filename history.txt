@@ -71,3 +71,4 @@ ls ~/Desktop/
 cat ~/Desktop/IMG_0143.JPG 
 1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2cqq
 history
+# this is a comment

@@ -35,3 +35,4 @@ ls
 mv doggies.txt kitties.txt
 ls
 ls *.txt
+rm --help

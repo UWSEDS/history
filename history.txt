@@ -10,3 +10,4 @@ cd Projects/teaching/cse583/history/
 ls
 source start_history_tracking.source_me.bash 
 cd
+mkdir

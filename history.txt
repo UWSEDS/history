@@ -68,3 +68,4 @@ head README.txt
 head -5 README.txt 
 tail README.txt 
 ls ~/Desktop/
+cat ~/Desktop/IMG_0143.JPG 

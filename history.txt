@@ -73,3 +73,4 @@ cat ~/Desktop/IMG_0143.JPG
 history
 # this is a comment
 history
+echo hello bryna

@@ -106,3 +106,4 @@ head 2015_trip_data.csv
 open 2015_trip_data.csv 
 ls
 cd .//
+ls

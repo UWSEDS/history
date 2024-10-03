@@ -102,3 +102,4 @@ mv 2015_*.csv pronto_data/
 ls
 ls pronto_data/
 cd pronto_data/
+head 2015_trip_data.csv 

@@ -118,3 +118,4 @@ rm pronto_data/*.csv
 ls
 rmdir pronto_data/
 ls
+nano get_pronto_data.bash 

@@ -98,3 +98,4 @@ ls
 unzip open_data_year_one.zip 
 ls
 mkdir pronto_data
+mv 2015_*.csv pronto_data/

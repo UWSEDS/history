@@ -115,3 +115,4 @@ nano get_pronto_data.bash
 ls
 rm open_data_year_one.zip 
 rm pronto_data/*.csv
+ls

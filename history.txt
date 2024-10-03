@@ -89,3 +89,4 @@ curl -o index.html www.google.com
 wc -l index.html 
 pwd
 ls
+rm index.html 

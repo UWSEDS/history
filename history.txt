@@ -94,3 +94,4 @@ rm rabbits.txt
 curl -O https://s3.amazonaws.com/pronto-data/open_data_year_one.zip
 ls
 head open_data_year_one.zip 
+ls

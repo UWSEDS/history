@@ -117,3 +117,4 @@ rm open_data_year_one.zip
 rm pronto_data/*.csv
 ls
 rmdir pronto_data/
+ls

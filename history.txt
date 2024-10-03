@@ -100,3 +100,4 @@ ls
 mkdir pronto_data
 mv 2015_*.csv pronto_data/
 ls
+ls pronto_data/

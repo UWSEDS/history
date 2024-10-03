@@ -90,3 +90,4 @@ wc -l index.html
 pwd
 ls
 rm index.html 
+rm rabbits.txt 

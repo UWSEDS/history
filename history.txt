@@ -125,3 +125,4 @@ nano final_pronto_script.bash
 bash final_pronto_script.bash 
 ls -l
 chmod -h
+man chmod

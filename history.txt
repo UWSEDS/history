@@ -146,3 +146,4 @@ cd guacamole/
 ls
 ls -a
 touch ingredients.txt
+ls

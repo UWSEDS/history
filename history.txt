@@ -152,3 +152,4 @@ git status
 git add ingredients.txt
 git status
 git diff
+git commit

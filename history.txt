@@ -149,3 +149,4 @@ touch ingredients.txt
 ls
 nano ingredients.txt 
 git status
+git add ingredients.txt

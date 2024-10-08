@@ -153,3 +153,4 @@ git add ingredients.txt
 git status
 git diff
 git commit
+git config --global core.editor "nano -w"

@@ -132,3 +132,4 @@ ls -al ~/.ssh
 ls -al ~/.ssh
 cd .ssh
 cd
+cd .ssh

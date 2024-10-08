@@ -142,3 +142,4 @@ ls
 rm -rf guacamole/
 git clone git@github.com:bhazelton/guacamole.git
 ls
+cd guacamole/

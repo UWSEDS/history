@@ -147,3 +147,4 @@ ls
 ls -a
 touch ingredients.txt
 ls
+nano ingredients.txt 

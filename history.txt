@@ -158,3 +158,4 @@ echo git config --global user.name "your_name_here"
 echo git config --global user.email "your_email_here"
 git config --list
 git status
+git commit

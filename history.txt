@@ -130,3 +130,4 @@ chmod u+x final_pronto_script.bash
 ls -l
 ls -al ~/.ssh
 ls -al ~/.ssh
+cd .ssh

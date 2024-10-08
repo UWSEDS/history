@@ -151,3 +151,4 @@ nano ingredients.txt
 git status
 git add ingredients.txt
 git status
+git diff

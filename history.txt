@@ -155,3 +155,4 @@ git diff
 git commit
 git config --global core.editor "nano -w"
 echo git config --global user.name "your_name_here"
+echo git config --global user.email "your_email_here"

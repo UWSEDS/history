@@ -160,3 +160,4 @@ git config --list
 git status
 git commit
 git status
+git push

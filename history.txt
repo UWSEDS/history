@@ -140,3 +140,4 @@ cd
 cd Projects/teaching/
 ls
 rm -rf guacamole/
+git clone git@github.com:bhazelton/guacamole.git

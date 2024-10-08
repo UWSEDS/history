@@ -148,3 +148,4 @@ ls -a
 touch ingredients.txt
 ls
 nano ingredients.txt 
+git status

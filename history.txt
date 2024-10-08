@@ -136,3 +136,4 @@ cd .ssh
 cat id_ed25519.pub 
 echo ssh-keygen -t ed25519 -C "your_email@uw.edu"
 ssh -T git@github.com
+cd

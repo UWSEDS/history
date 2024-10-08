@@ -128,3 +128,4 @@ chmod -h
 man chmod
 chmod u+x final_pronto_script.bash 
 ls -l
+ls -al ~/.ssh

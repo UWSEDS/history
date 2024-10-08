@@ -133,3 +133,4 @@ ls -al ~/.ssh
 cd .ssh
 cd
 cd .ssh
+cat id_ed25519.pub 

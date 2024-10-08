@@ -138,3 +138,4 @@ echo ssh-keygen -t ed25519 -C "your_email@uw.edu"
 ssh -T git@github.com
 cd
 cd Projects/teaching/
+ls

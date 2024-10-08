@@ -159,3 +159,4 @@ echo git config --global user.email "your_email_here"
 git config --list
 git status
 git commit
+git status

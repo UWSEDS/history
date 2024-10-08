@@ -154,3 +154,4 @@ git status
 git diff
 git commit
 git config --global core.editor "nano -w"
+echo git config --global user.name "your_name_here"

@@ -180,3 +180,4 @@ ls
 cd uwseds.github.io/
 vim syllabus.md
 git add syllabus.md
+git commit -m "fixed link to HW1"

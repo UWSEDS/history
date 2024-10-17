@@ -178,3 +178,4 @@ jobs
 cd /mnt/c/Users/dacb/Documents/UWSEDS/
 ls
 cd uwseds.github.io/
+vim syllabus.md

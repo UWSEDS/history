@@ -166,3 +166,4 @@ cd cse583/
 cd ..
 source cse583/start_history_tracking.source_me.bash 
 pwd
+ls

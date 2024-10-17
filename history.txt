@@ -168,3 +168,4 @@ source cse583/start_history_tracking.source_me.bash
 pwd
 ls
 jupyter notebook python_vars_and_flow_control.ipynb 
+bg

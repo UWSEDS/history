@@ -176,3 +176,4 @@ bg
 fg %2
 jobs
 cd /mnt/c/Users/dacb/Documents/UWSEDS/
+ls

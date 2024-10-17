@@ -184,3 +184,4 @@ git commit -m "fixed link to HW1"
 git push
 vim syllabus.md
 git add syllabus.md
+git commit -m "added link to today's video"

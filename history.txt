@@ -175,3 +175,4 @@ jupyter notebook python_vars_and_flow_control.ipynb &
 bg
 fg %2
 jobs
+cd /mnt/c/Users/dacb/Documents/UWSEDS/

@@ -186,3 +186,8 @@ vim syllabus.md
 git add syllabus.md
 git commit -m "added link to today's video"
 git push
+cd cse583/
+lks
+ls
+git pull
+source start_history_tracking.source_me.bash 

@@ -195,3 +195,4 @@ CD ~
 cd ~
 nano nels.py
 cat nels.py 
+python

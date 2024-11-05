@@ -194,3 +194,4 @@ source start_history_tracking.source_me.bash
 CD ~
 cd ~
 nano nels.py
+cat nels.py 

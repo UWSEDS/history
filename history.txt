@@ -220,3 +220,4 @@ curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_deb
 curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Unit-tests.ipynb
 curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Debugging.ipynb
 mv *.ipynb tmp
+ls

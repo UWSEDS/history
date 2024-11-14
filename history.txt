@@ -226,3 +226,4 @@ conda install pytest ipytest
 pip install ipytest
 conda install pytest ipytest -c "conda-forge" 
 python
+pushd .

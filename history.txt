@@ -223,3 +223,4 @@ mv *.ipynb tmp
 ls
 mv *.ipynb ../tmp
 conda install pytest ipytest
+pip install ipytest

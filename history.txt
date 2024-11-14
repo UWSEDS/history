@@ -222,3 +222,4 @@ curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_deb
 mv *.ipynb tmp
 ls
 mv *.ipynb ../tmp
+conda install pytest ipytest

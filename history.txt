@@ -209,3 +209,4 @@ source start_history_tracking.source_me.bash
 cd
 cd tmp
 curl -P https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Exceptions.ipynb
+curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Exceptions.ipynb

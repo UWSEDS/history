@@ -207,3 +207,4 @@ python
 cd cse583/
 source start_history_tracking.source_me.bash 
 cd
+cd tmp

@@ -240,3 +240,4 @@ source start_history_tracking.source_me.bash
 cd ../
 ls
 curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Unit-tests.ipynb 
+ls

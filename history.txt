@@ -227,3 +227,13 @@ pip install ipytest
 conda install pytest ipytest -c "conda-forge" 
 python
 pushd .
+cd Projects/teaching/cse583/
+ls
+cd history/
+ls
+conda deactivate rasg
+conda deactivate
+conda activate cse584
+conda activate cse583
+ls
+source start_history_tracking.source_me.bash 

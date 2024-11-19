@@ -237,3 +237,4 @@ conda activate cse584
 conda activate cse583
 ls
 source start_history_tracking.source_me.bash 
+cd ../

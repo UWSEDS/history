@@ -242,3 +242,70 @@ ls
 curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Unit-tests.ipynb 
 ls
 jupyter notebook
+gitkraken 
+cd 
+ls .git
+more .git/
+ls -la .git
+w
+ls -la
+ssh 128.208.236.235 "tar -cvzf .ssh" | tar -xzf -
+ssh 128.208.236.235 "tar -cvzf .ssh2" | tar -xzf -
+ls -l .ssh
+cd lecture-materials/
+vim sy
+ls
+cd ../
+git clone https://github.com/UWSEDS/uwseds.github.io.git
+cd uwseds.github.io/
+vim syllabus.md 
+git add syllabus.md 
+git commit -m "added link to yesterday's video"
+git push
+cd ..
+\rm -rf uwseds.github.io/
+git clone git@github.com:UWSEDS/uwseds.github.io.git
+cd 
+ls
+cd uwseds.github.io/
+vim syllabus.md 
+gtvim syllabus.md 
+gvim syllabus.md 
+vim syllabus.md 
+git add syllabus.md 
+git commit -m "added link to video"
+git push
+git commit -m "added link to video" syllabus.md 
+git diff syllabus.md
+git diff HEAD~1 syllabus.md
+vim syllabus.md 
+vim 
+vim ~/.viminfo 
+vim syllabus.md 
+vim ~/.viminfo 
+vim ~/.vimrc
+vim syllabus.md 
+sudo vim /etc/vim/vimrc
+rm ~/.vimrc 
+vim syllabus.md 
+sudo vim /etc/vim/vimrc
+sudo vim /etc/vim/vimrc.tiny 
+sudo vim /etc/vim/gvimrc 
+vim syllabus.md 
+vim ~/.vimrc
+vim syllabus.md 
+vim ~/.vimrc
+vim syllabus.md 
+git add syllabus.md 
+git commit -m "added link to video"
+git push
+cd ../
+ls
+\rm -rf history/
+git clone git@github.com:UWSEDS/history.git
+cd history/
+ls
+vim start_history_tracking.source_me.bash 
+git add start_history_tracking.source_me.bash 
+git commit -m "testing update"
+source start_history_tracking.source_me.bash 

@@ -391,3 +391,4 @@ curl -O https://s3.amazonaws.com/pronto-data/open_data_year_one.zip
 ls -l
 ls -lh
 cat open_data_year_one.zip | tail -1
+unzip open_data_year_one.zip 

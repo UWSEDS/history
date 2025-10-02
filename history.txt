@@ -370,3 +370,4 @@ cat /tmp/out.txt
 ls
 ls tmp
 echo "not a useful example" | echo 
+echo "not a useful example" | cat

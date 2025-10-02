@@ -366,3 +366,4 @@ echo what does echo do
 echo what does echo do > /tmp/out.txt
 cat /tmp/out.txt 
 echo what doesnt echo do > /tmp/out.txt
+cat /tmp/out.txt 

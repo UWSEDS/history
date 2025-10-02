@@ -345,3 +345,4 @@ less README.txt
 head -5 README.txt 
 head 5 README.txt 
 head README.txt 
+tail -5 README.txt 

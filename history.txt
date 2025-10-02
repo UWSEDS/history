@@ -332,3 +332,4 @@ explorer.exe .
 ls
 man rm
 rm -r dave
+ls

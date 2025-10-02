@@ -359,3 +359,4 @@ grep omg pronto/*.txt
 cd pronto/
 echo "please omg stop" > ian.txt
 cd ../
+grep omg pronto/*.txt

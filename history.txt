@@ -323,3 +323,4 @@ ls -la
 mv ian.txt dave.txt
 ls 
 cp dave.txt ian.txt 
+rm dave.txt

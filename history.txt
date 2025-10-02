@@ -309,3 +309,7 @@ vim start_history_tracking.source_me.bash
 git add start_history_tracking.source_me.bash 
 git commit -m "testing update"
 source start_history_tracking.source_me.bash 
+cd tmp
+curl -O https://s3.amazonaws.com/pronto-data/open_data_year_one.zip
+cd ../history/
+source start_history_tracking.source_me.bash 

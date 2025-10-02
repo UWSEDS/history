@@ -364,3 +364,4 @@ which cowsay
 echo "what does echo do"
 echo what does echo do
 echo what does echo do > /tmp/out.txt
+cat /tmp/out.txt 

@@ -349,3 +349,4 @@ tail -5 README.txt
 tail --help
 q
 grep stop README.txt 
+man grep

@@ -350,3 +350,4 @@ tail --help
 q
 grep stop README.txt 
 man grep
+grep -i OMG README.txt 

@@ -319,3 +319,4 @@ cd
 mkdir pronto
 cd pronto/
 ls -l
+ls -la

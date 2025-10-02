@@ -389,3 +389,4 @@ ls -l
 [200~o, --only-matching
 curl -O https://s3.amazonaws.com/pronto-data/open_data_year_one.zip
 ls -l
+ls -lh

@@ -338,3 +338,4 @@ ls -la
 nano README.txt
 ls -l
 cat README.txt 
+nano README.txt 

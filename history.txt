@@ -329,3 +329,4 @@ mv /tmp/ian.new.txt ian.txt
 rmdir dave
 man rmdir
 explorer.exe .
+ls

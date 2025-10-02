@@ -383,3 +383,4 @@ rm bryna.txt
 cp ian.txt bryna.txt
 cat bryna.txt 
 curl www.google.com
+curl http://www.google.com/index.html

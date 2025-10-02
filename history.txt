@@ -394,3 +394,4 @@ cat open_data_year_one.zip | tail -1
 unzip open_data_year_one.zip 
 sudo apt install unzip
 unzip open_data_year_one.zip 
+cat README.

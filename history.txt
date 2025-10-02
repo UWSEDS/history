@@ -371,3 +371,4 @@ ls
 ls tmp
 echo "not a useful example" | echo 
 echo "not a useful example" | cat
+cat

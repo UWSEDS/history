@@ -375,3 +375,4 @@ cat
 echo "Moo" | cowsay
 ls
 cd pronto/
+cat ian.txt | cowsay

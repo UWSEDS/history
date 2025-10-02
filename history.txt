@@ -352,3 +352,4 @@ grep stop README.txt
 man grep
 grep -i OMG README.txt 
 man grep
+grep -10 stop README.txt 

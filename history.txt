@@ -316,3 +316,4 @@ source start_history_tracking.source_me.bash
 curl -O https://s3.amazonaws.com/pronto-data/open_data_year_one.zip
 rm open_data_year_one.zip 
 cd
+mkdir pronto

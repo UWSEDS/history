@@ -373,3 +373,4 @@ echo "not a useful example" | echo
 echo "not a useful example" | cat
 cat
 echo "Moo" | cowsay
+ls

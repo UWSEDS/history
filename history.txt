@@ -378,3 +378,4 @@ cd pronto/
 cat ian.txt | cowsay
 cat < ian.txt 
 cat < ian.txt > bryna.txt
+cat bryna.txt 

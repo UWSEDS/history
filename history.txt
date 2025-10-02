@@ -330,3 +330,4 @@ rmdir dave
 man rmdir
 explorer.exe .
 ls
+man rm

@@ -342,3 +342,4 @@ nano README.txt
 cat README.txt 
 more README.txt 
 less README.txt 
+head -5 README.txt 

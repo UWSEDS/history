@@ -333,3 +333,4 @@ ls
 man rm
 rm -r dave
 ls
+rm ian.txt

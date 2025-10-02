@@ -385,3 +385,4 @@ cat bryna.txt
 curl www.google.com
 curl http://www.google.com/index.html
 curl -O http://www.google.com/index.html
+ls -l

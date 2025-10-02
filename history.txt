@@ -337,3 +337,4 @@ rm ian.txt
 ls -la
 nano README.txt
 ls -l
+cat README.txt 

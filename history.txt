@@ -318,3 +318,4 @@ rm open_data_year_one.zip
 cd
 mkdir pronto
 cd pronto/
+ls -l

@@ -363,3 +363,4 @@ grep omg pronto/*.txt
 which cowsay
 echo "what does echo do"
 echo what does echo do
+echo what does echo do > /tmp/out.txt

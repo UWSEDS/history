@@ -326,3 +326,4 @@ cp dave.txt ian.txt
 rm dave.txt
 mv ian.txt /tmp/ian.new.txt
 mv /tmp/ian.new.txt ian.txt
+rmdir dave

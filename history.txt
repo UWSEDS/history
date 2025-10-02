@@ -355,3 +355,4 @@ man grep
 grep -10 stop README.txt 
 cd ..
 grep omg pronto/*
+grep omg pronto/*.txt

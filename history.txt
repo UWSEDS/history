@@ -430,3 +430,4 @@ ls
 cd pronto
 ls
 cat README.txt 
+head -5 2015_trip_data.csv 

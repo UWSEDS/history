@@ -411,3 +411,4 @@ ls
 source history/start_history_tracking.source_me.bash 
 ls
 echo "this is fun" > file.txt
+echo "this is fun" | cowsay

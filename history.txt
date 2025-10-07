@@ -437,3 +437,4 @@ source history/start_history_tracking.source_me.bash
 ls -al ~/.ssh
 ls -al ~/.ssh
 cat ~/.ssh/id_ed25519.pub 
+pwd

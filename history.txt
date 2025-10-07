@@ -416,3 +416,5 @@ echo "this is fun" | cat
 nano download_pronto.bash
 cat download_pronto.bash 
 cd /tmp
+exit
+bash

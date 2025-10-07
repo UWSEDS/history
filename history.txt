@@ -438,3 +438,4 @@ ls -al ~/.ssh
 ls -al ~/.ssh
 cat ~/.ssh/id_ed25519.pub 
 pwd
+ls

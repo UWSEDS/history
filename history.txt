@@ -418,3 +418,5 @@ cat download_pronto.bash
 cd /tmp
 exit
 bash
+exit
+bash

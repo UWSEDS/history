@@ -429,3 +429,4 @@ bash download_pronto.bash
 ls
 cd pronto
 ls
+cat README.txt 

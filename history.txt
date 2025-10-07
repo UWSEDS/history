@@ -409,3 +409,4 @@ pwd
 cd Projects/teaching/cse583/
 ls
 source history/start_history_tracking.source_me.bash 
+ls

@@ -443,3 +443,4 @@ nano download_pronto.bash
 ssh -T git@github.com
 gitkraken
 pwd
+git clone git@github.com:bhazelton/guacamole.git

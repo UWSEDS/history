@@ -460,3 +460,4 @@ git staus
 git status
 git diff
 git add ingredients.txt
+git status

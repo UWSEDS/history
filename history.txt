@@ -455,3 +455,4 @@ nano ingredients.txt
 git status
 git status
 git status
+git diff ingredients.txt

@@ -449,3 +449,4 @@ cd guacamole/
 ls
 ls -a
 code .
+vscode .

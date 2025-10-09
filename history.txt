@@ -450,3 +450,4 @@ ls
 ls -a
 code .
 vscode .
+ls

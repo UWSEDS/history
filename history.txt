@@ -463,3 +463,4 @@ git add ingredients.txt
 git status
 git status
 git push
+git fetch

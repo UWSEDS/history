@@ -459,3 +459,4 @@ git diff ingredients.txt
 git staus
 git status
 git diff
+git add ingredients.txt

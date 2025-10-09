@@ -467,3 +467,4 @@ git fetch
 ls
 nano README.md 
 ls
+git status

@@ -451,3 +451,4 @@ ls -a
 code .
 vscode .
 ls
+nano ingredients.txt

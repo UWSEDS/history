@@ -442,3 +442,4 @@ ls
 nano download_pronto.bash 
 ssh -T git@github.com
 gitkraken
+pwd

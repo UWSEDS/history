@@ -452,3 +452,4 @@ code .
 vscode .
 ls
 nano ingredients.txt
+git status

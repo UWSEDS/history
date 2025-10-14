@@ -411,3 +411,4 @@ cd
 ls
 cat dave.txt 
 curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/refs/heads/master/04_jupyter_and_python_intro/simple_math_breakout.ipynb
+cat simple_math_breakout.ipynb 

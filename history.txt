@@ -492,3 +492,4 @@ git add download_pronto.bash
 git status
 history
 git status
+git commit

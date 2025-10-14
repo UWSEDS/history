@@ -409,3 +409,4 @@ conda install jupyter notebook
 cdf 
 cd
 ls
+cat dave.txt 

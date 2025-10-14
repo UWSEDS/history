@@ -490,3 +490,4 @@ git add README.md
 gitkraken
 git add download_pronto.bash
 git status
+history

@@ -493,3 +493,4 @@ git status
 history
 git status
 git commit
+git commit -m "add bash script, update readme"

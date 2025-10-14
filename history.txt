@@ -496,3 +496,4 @@ git commit
 git commit -m "add bash script, update readme"
 git status
 git push
+git status

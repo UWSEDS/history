@@ -404,3 +404,4 @@ source start_history_tracking.source_me.bash
 ls
 cd ..
 echo "is history updated"
+conda 

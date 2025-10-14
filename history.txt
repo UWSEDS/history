@@ -481,3 +481,4 @@ cd ../
 ls
 mv download_pronto.bash homework-0-bhazelton/
 ls
+cd homework-0-bhazelton/

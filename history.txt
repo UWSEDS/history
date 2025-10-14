@@ -406,3 +406,4 @@ cd ..
 echo "is history updated"
 conda 
 conda install jupyter notebook
+cdf 

@@ -477,3 +477,4 @@ ls
 cd homework-0-bhazelton/
 ls
 ls
+cd ../

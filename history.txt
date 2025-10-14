@@ -470,3 +470,4 @@ ls
 git status
 git fetch
 pwd
+cd ../

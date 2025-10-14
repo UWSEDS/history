@@ -408,3 +408,4 @@ conda
 conda install jupyter notebook
 cdf 
 cd
+ls

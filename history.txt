@@ -474,3 +474,4 @@ cd ../
 ls
 git clone git@github.com:UWSEDS/homework-0-bhazelton.git
 ls
+cd homework-0-bhazelton/

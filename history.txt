@@ -396,6 +396,7 @@ sudo apt install unzip
 unzip open_data_year_one.zip 
 cat README.
 cat README.txt 
+<<<<<<< HEAD
 exit
 ls
 cd history/
@@ -413,3 +414,106 @@ cat dave.txt
 curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/refs/heads/master/04_jupyter_and_python_intro/simple_math_breakout.ipynb
 cat simple_math_breakout.ipynb 
 head simple_math_breakout.ipynb 
+=======
+pwd
+mkdir --help
+man mkdir
+man mkdir
+man mkdir
+ls -H
+ls -h
+open .
+clear
+pwd
+cd Projects/teaching/cse583/
+ls
+source history/start_history_tracking.source_me.bash 
+ls
+echo "this is fun" > file.txt
+echo "this is fun" | cowsay
+echo "this is fun" | cat
+nano download_pronto.bash
+cat download_pronto.bash 
+cd /tmp
+exit
+bash
+exit
+bash
+exit
+bash
+bash download_pronto.bash 
+man mkdir
+nano download_pronto.bash 
+bash download_pronto.bash 
+ls
+cd pronto
+ls
+cat README.txt 
+head -5 2015_trip_data.csv 
+cd Projects/teaching/cse583/
+ls
+source history/start_history_tracking.source_me.bash 
+ls -al ~/.ssh
+ls -al ~/.ssh
+cat ~/.ssh/id_ed25519.pub 
+pwd
+ls
+nano download_pronto.bash 
+ssh -T git@github.com
+gitkraken
+pwd
+git clone git@github.com:bhazelton/guacamole.git
+ls
+cd guacamole/
+ls
+ls -a
+code .
+vscode .
+ls
+nano ingredients.txt
+git status
+git status
+git status
+git diff ingredients.txt
+git staus
+git status
+git diff
+git add ingredients.txt
+git status
+git status
+git push
+git fetch
+ls
+nano README.md 
+ls
+git status
+git fetch
+pwd
+cd ../
+ls
+git clone git@github.com:UWSEDS/homework-0-bhazelton.git
+ls
+cd homework-0-bhazelton/
+ls
+ls
+cd ../
+ls
+mv download_pronto.bash homework-0-bhazelton/
+ls
+cd homework-0-bhazelton/
+ls
+nano README.md 
+code .
+git status
+git add README.md
+gitkraken
+git add download_pronto.bash
+git status
+history
+git status
+git commit
+git commit -m "add bash script, update readme"
+git status
+git push
+git status
+history

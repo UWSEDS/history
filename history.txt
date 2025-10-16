@@ -539,3 +539,4 @@ source start_history_tracking.source_me.bash
 cd
 echo "hurray for thursday"
 ls
+rm python_vars_and_flow_control.ipynb 

@@ -544,3 +544,4 @@ echo "its working"
 ls
 jupyter notebook simple_math_breakout.ipynb 
 bg
+curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/04_jupyter_and_python_intro/python_vars_and_flow_control.ipynb

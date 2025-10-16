@@ -543,3 +543,4 @@ rm python_vars_and_flow_control.ipynb
 echo "its working"
 ls
 jupyter notebook simple_math_breakout.ipynb 
+bg

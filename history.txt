@@ -541,3 +541,4 @@ echo "hurray for thursday"
 ls
 rm python_vars_and_flow_control.ipynb 
 echo "its working"
+ls

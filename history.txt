@@ -536,3 +536,4 @@ git commit -m "modified for dacb"
 git push
 more start_history_tracking.source_me.bash 
 source start_history_tracking.source_me.bash 
+cd

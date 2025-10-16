@@ -517,3 +517,22 @@ git status
 git push
 git status
 history
+curl -O https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/04_jupyter_and_python_intro/python_vars_and_flow_control.ipynb
+jupyter notebook python_vars_and_flow_control.ipynb 
+cd st
+cd history/
+ls
+git pull
+rm history.txt 
+git pull
+vim history.txt 
+vim start_history_tracking.source_me.bash 
+git statu
+git status
+git add start_history_tracking.source_me.bash 
+gi add history.txt 
+git add history.txt 
+git commit -m "modified for dacb"
+git push
+more start_history_tracking.source_me.bash 
+source start_history_tracking.source_me.bash 

@@ -538,3 +538,4 @@ more start_history_tracking.source_me.bash
 source start_history_tracking.source_me.bash 
 cd
 echo "hurray for thursday"
+ls

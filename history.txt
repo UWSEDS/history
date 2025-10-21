@@ -550,3 +550,4 @@ cd history/
 ls
 git pull
 source start_history_tracking.source_me.bash 
+cd

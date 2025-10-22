@@ -553,3 +553,4 @@ source start_history_tracking.source_me.bash
 cd
 ls
 ls -l python_vars_and_flow_control.ipynb 
+jupyter notebook

@@ -554,3 +554,35 @@ cd
 ls
 ls -l python_vars_and_flow_control.ipynb 
 jupyter notebook
+exit
+wget https://s3.amazonaws.com/pronto-data/open_data_year_one.zip
+unzip -l open
+unzip -l open_data_year_one.zip 
+rm open_data_year_one.zip 
+ls
+rm FASTA_downloader.* README.md VEG* gitkraken-amd64.deb global.yml gtkwave-gtk3-3.3.127.tar.gz incentiv_ai.dacb_fork/ python_vars_and_flow_control.ipynb simple_math_breakout.ipynb wget-log tmp.tar.gz 
+ls
+\rm -rf IncentivAI.dacb_fork/
+\rm -rf incentiv_ai.dacb_fork/
+ls
+\rm -rf ChromaQuant/ D-SCRIPT/ NeuroConnect/ OT2-ADT/ SEMDS-HW1-template/ Zachive/ gazpacho/ 
+ls
+ls history
+mroe history/.git/config 
+more history/.git/config
+cd historyl.583/
+ls
+ls -la
+more README.
+more README.md 
+git pull
+ls
+vim start_history_tracking.source_me.bash 
+ls
+pw
+pwd
+vim start_history_tracking.source_me.bash 
+git add start_history_tracking.source_me.bash 
+git commit -m "fixed pathes"
+git push
+source start_history_tracking.source_me.bash 

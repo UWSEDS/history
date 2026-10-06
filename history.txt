@@ -54,3 +54,4 @@ cd pronto/
 cp ../README.txt .
 ls
 cp -i ../README.txt .
+man cp

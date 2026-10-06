@@ -587,3 +587,4 @@ git commit -m "fixed pathes"
 git push
 source start_history_tracking.source_me.bash 
 cd
+ls

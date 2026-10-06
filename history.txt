@@ -26,3 +26,4 @@ pwd
 tree
 ls
 tree entropy
+cd ../../media/

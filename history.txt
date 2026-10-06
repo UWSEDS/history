@@ -9,3 +9,4 @@ ls
 ls -l
 ls -la
 la -a
+ls

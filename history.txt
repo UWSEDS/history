@@ -41,3 +41,4 @@ ls -la
 cat README.txt 
 ls 
 ls /
+ls ../*.png

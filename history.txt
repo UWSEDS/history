@@ -13,3 +13,4 @@ ls
 ls -a
 ls
 mkdir cse583
+ls

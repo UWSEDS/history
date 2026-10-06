@@ -11,3 +11,4 @@ ls -la
 la -a
 ls
 ls -a
+ls

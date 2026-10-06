@@ -60,3 +60,4 @@ man curl
 cp --help
 curl --help
 curl -h
+man curl

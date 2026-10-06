@@ -19,3 +19,4 @@ cd cse583/
 ls 
 ls -a
 ls -la
+ls -la .

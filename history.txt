@@ -40,3 +40,4 @@ nano README.txt
 ls -la
 cat README.txt 
 ls 
+ls /

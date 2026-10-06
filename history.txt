@@ -43,3 +43,4 @@ ls
 ls /
 ls ../*.png
 ls ../*/*.png
+cat ../qtdraw/civicsi.png 

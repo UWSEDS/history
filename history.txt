@@ -28,3 +28,4 @@ ls
 tree entropy
 cd ../../media/
 ls
+cd .

@@ -16,3 +16,4 @@ mkdir cse583
 ls
 cd
 cd cse583/
+ls 

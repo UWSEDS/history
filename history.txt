@@ -45,3 +45,4 @@ ls ../*.png
 ls ../*/*.png
 cat ../qtdraw/civicsi.png 
 61;4;6;7;14;21;22;23;24;28;32;42;52c
+cat README.txt readme.txt 

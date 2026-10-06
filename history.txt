@@ -22,3 +22,4 @@ ls -la
 ls -la .
 cd ..
 cd
+pwd

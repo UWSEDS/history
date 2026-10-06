@@ -52,3 +52,4 @@ ls pronto/
 ls 
 cd pronto/
 cp ../README.txt .
+ls

@@ -34,3 +34,4 @@ cd cse583/
 ls
 touch README.txt
 ls -la README.txt 
+touch readme.txt

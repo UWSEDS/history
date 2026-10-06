@@ -32,3 +32,4 @@ cd .
 cd
 cd cse583/
 ls
+touch README.txt

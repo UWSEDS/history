@@ -36,3 +36,4 @@ touch README.txt
 ls -la README.txt 
 touch readme.txt
 ls
+nano README.txt 

@@ -50,3 +50,4 @@ mkdir pronto
 cp README.txt pronto/
 ls pronto/
 ls 
+cd pronto/

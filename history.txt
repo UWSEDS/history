@@ -48,3 +48,4 @@ cat ../qtdraw/civicsi.png
 cat README.txt readme.txt 
 mkdir pronto
 cp README.txt pronto/
+ls pronto/

@@ -1,3 +1,4 @@
 cat > historyl.583/history.txt 
 ls
 curl -O https://wellbeing.uw.edu/wp-content/uploads/2025/10/Supporting-Students-Employee-Guide-2025-2026-Final-10-25.pdf
+cd

@@ -31,3 +31,4 @@ ls
 cd .
 cd
 cd cse583/
+ls

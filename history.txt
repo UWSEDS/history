@@ -65,3 +65,4 @@ nano README.txt
 more README.txt 
 less README.txt 
 mv ../README.txt .
+ls ../

@@ -30,3 +30,4 @@ cd ../../media/
 ls
 cd .
 cd
+cd cse583/

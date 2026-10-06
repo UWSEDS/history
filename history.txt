@@ -59,3 +59,4 @@ man ls
 man curl
 cp --help
 curl --help
+curl -h

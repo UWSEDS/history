@@ -25,3 +25,4 @@ cd
 pwd
 tree
 ls
+tree entropy

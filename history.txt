@@ -38,3 +38,4 @@ touch readme.txt
 ls
 nano README.txt 
 ls -la
+cat README.txt 

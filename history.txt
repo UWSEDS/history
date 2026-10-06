@@ -5,3 +5,4 @@ cd
 explorer.exe 
 explorer.exe .
 open Supporting-Students-Employee-Guide-2025-2026-Final-10-25.pdf 
+ls

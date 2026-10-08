@@ -93,3 +93,4 @@ ls -l /
 ls -l
 ls -la
 ls
+ls ~

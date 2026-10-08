@@ -124,3 +124,4 @@ which ls
 cd
 cd cse583/pronto/
 touch script.bash
+nano script.bash 

@@ -106,3 +106,4 @@ cat README.txt
 echo "This directory holds the pronto data" >> README.txt
 cat README.txt 
 echo Moo
+echo Moo | cowsay

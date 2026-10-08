@@ -127,3 +127,5 @@ touch script.bash
 nano script.bash 
 bash script.bash 
 cd /tmp
+exit
+bash

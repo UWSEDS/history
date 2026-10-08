@@ -89,3 +89,4 @@ ls
 mkdir pronto
 cd pronto
 rm -rf .
+ls -l /

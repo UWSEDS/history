@@ -86,3 +86,4 @@ ls -la
 cd ..
 rm -d pronto/
 ls 
+mkdir pronto

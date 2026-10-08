@@ -95,3 +95,4 @@ ls -la
 ls
 ls ~
 ls
+ls ../

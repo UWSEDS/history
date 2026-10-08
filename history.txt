@@ -77,3 +77,4 @@ which tree
 foobar
 cd 
 cd cse583/pronto/
+ls

@@ -83,3 +83,4 @@ rm .
 rm --help
 ls 
 ls -la
+cd ..

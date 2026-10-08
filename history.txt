@@ -112,3 +112,4 @@ echo "Dave is the man" | cowsay | lolcat
 cat 
 cat < README.
 cat < README.txt 
+conda --help

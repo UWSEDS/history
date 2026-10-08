@@ -87,3 +87,4 @@ cd ..
 rm -d pronto/
 ls 
 mkdir pronto
+cd pronto

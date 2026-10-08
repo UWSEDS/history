@@ -91,3 +91,4 @@ cd pronto
 rm -rf .
 ls -l /
 ls -l
+ls -la

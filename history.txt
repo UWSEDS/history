@@ -96,3 +96,4 @@ ls
 ls ~
 ls
 ls ../
+echo "This directory holds the pronto data"

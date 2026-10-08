@@ -84,3 +84,4 @@ rm --help
 ls 
 ls -la
 cd ..
+rm -d pronto/

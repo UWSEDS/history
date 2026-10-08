@@ -82,3 +82,4 @@ rm davesimportantdata.txt
 rm .
 rm --help
 ls 
+ls -la

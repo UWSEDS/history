@@ -108,3 +108,4 @@ cat README.txt
 echo Moo
 echo Moo | cowsay
 echo Moo | cowsay | lolcat
+echo "Dave is the man" | cowsay | lolcat

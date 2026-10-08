@@ -122,3 +122,4 @@ la -la
 env
 which ls
 cd
+cd cse583/pronto/

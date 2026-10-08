@@ -94,3 +94,4 @@ ls -l
 ls -la
 ls
 ls ~
+ls

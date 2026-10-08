@@ -121,3 +121,4 @@ which tree
 la -la
 env
 which ls
+cd

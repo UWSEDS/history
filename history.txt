@@ -129,3 +129,5 @@ bash script.bash
 cd /tmp
 exit
 bash
+exit
+bash

@@ -113,3 +113,4 @@ cat
 cat < README.
 cat < README.txt 
 conda --help
+conda install jupyter notebook matplotlib pandas

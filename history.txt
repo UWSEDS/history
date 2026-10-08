@@ -116,3 +116,4 @@ conda --help
 conda install jupyter notebook matplotlib pandas
 jupyter notebook
 conda install cowsay
+conda install tree

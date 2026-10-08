@@ -118,3 +118,4 @@ jupyter notebook
 conda install cowsay
 conda install tree
 which tree
+la -la

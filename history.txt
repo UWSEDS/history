@@ -131,3 +131,5 @@ exit
 bash
 exit
 bash
+exit
+bash

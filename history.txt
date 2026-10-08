@@ -135,3 +135,4 @@ exit
 bash
 curl google.com
 curl http://google.com
+curl http://www.google.com

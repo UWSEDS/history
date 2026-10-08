@@ -80,3 +80,4 @@ cd cse583/pronto/
 ls
 rm davesimportantdata.txt 
 rm .
+rm --help

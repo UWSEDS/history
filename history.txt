@@ -120,3 +120,4 @@ conda install tree
 which tree
 la -la
 env
+which ls

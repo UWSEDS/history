@@ -11,9 +11,8 @@ $\color{magenta}{\text{What is their skill level.}}$
 Example: 
 $\color{yellow}{\text{Valentina is an ATM technician. }}$
 $\color{green}{\text{ She services ATMs as part of preventative maintenance, applies hardware and software updates and for performs emergency repairs. }}$
-$\color{cyan}{\text{For maintenance and updates she will follow a standard protocol.  For repairs, she needs access to a diagnostic interface.  }}$
-$\color{magenta}{\text{Valentina is highly technical and knows how to replace standardized parts.
-}}$
+$\color{cyan}{\text{ For maintenance and updates she will follow a standard protocol.  For repairs, she needs access to a diagnostic interface.  }}$
+$\color{magenta}{\text{ Valentina is highly technical and knows how to replace standardized parts.}}$
 
 
 This is a formatted example of a use case:

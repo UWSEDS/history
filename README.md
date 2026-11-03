@@ -7,3 +7,10 @@ $\color{yellow}{\text{Who is the user.}}$
 $\color{green}{\text{What do they want to do with the tool.}}$
 $\color{cyan}{\text{What needs and desires do they want for the tool.}}$
 $\color{magenta}{\text{What is their skill level.}}$
+
+This is another example:
+
+> [!NOTE]> **Who is the user.** (Blue theme)
+> [!TIP]> **What do they want to do with the tool.** (Green theme)
+> [!IMPORTANT]> **What needs and desires do they want for the tool.** (Purple theme)
+> [!WARNING]> **What is their skill level.** (Yellow theme)

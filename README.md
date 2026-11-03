@@ -8,9 +8,36 @@ $\color{green}{\text{What do they want to do with the tool.}}$
 $\color{cyan}{\text{What needs and desires do they want for the tool.}}$
 $\color{magenta}{\text{What is their skill level.}}$
 
-This is another example:
+Example: 
+$\color{yellow}{\text{Valentina is an ATM technician. }}$
+$\color{green}{\text{ She services ATMs as part of preventative maintenance, applies hardware and software updates and for performs emergency repairs. }}$
+$\color{cyan}{\text{For maintenance and updates she will follow a standard protocol.  For repairs, she needs access to a diagnostic interface.  }}$
+$\color{magenta}{\text{Valentina is highly technical and knows how to replace standardized parts.
+}}$
 
-[!NOTE]> **Who is the user.** (Blue theme)
-[!TIP]> **What do they want to do with the tool.** (Green theme)
-[!IMPORTANT]> **What needs and desires do they want for the tool.** (Purple theme)
-[!WARNING]> **What is their skill level.** (Yellow theme)
+
+This is a formatted example of a use case:
+
+# Use Case: ATM Field Maintenance & Repair
+
+### Who is the User?
+*   **Persona/Role:** Valentina, ATM Technician
+*   **Context:** Services ATMs in the field for both routine and urgent callouts.
+
+### What Do They Want to Do with the Tool?
+*   **Primary Tasks:** 
+    *   Perform preventative maintenance.
+    *   Apply hardware and software updates.
+    *   Execute emergency repairs.
+*   **Operational Workflows:**
+    *   *Standard Operations:* Follows a standard protocol for routine maintenance and system updates.
+    *   *Edge/Exception Operations:* Troubleshoots unmapped errors during emergency repair scenarios.
+
+### What Needs and Desires Do They Have for the Tool?
+*   **Functional Needs:** Requires direct access to a comprehensive diagnostic interface during repairs.
+*   **Desires / Experience Preferences:** Clear separation between standard procedural checklists and deep-dive diagnostic tools.
+
+### What is Their Skill Level?
+*   **Technical Proficiency:** Highly technical.
+*   **Domain Knowledge:** Expert in standard operating protocols and trained to replace standardized hardware components.
+
